@@ -1,6 +1,6 @@
-# RoboMonkey
+# CoVer-VLA
 
-This is the repository that contains source code for the RoboMonkey project page.
+This is the repository that contains source code for the CoVer-VLA project page.
 
 # References
-This webpage is adapted from [CoT-VLA](https://github.com/cot-vla/cot-vla.github.io).
+This webpage is adapted from [RoboMonkey](https://robomonkey-vla.github.io/).
